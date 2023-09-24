@@ -1,0 +1,36 @@
+C:\Users\Yetunde\OneDrive\Desktop\aspnet_core_mvc(2nd)\instructors\student_projects\project_starts\5-1_TipCalculator\TipCalculator\obj\Debug\net6.0\TipCalculator.csproj.AssemblyReference.cache
+C:\Users\Yetunde\OneDrive\Desktop\aspnet_core_mvc(2nd)\instructors\student_projects\project_starts\5-1_TipCalculator\TipCalculator\obj\Debug\net6.0\TipCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yetunde\OneDrive\Desktop\aspnet_core_mvc(2nd)\instructors\student_projects\project_starts\5-1_TipCalculator\TipCalculator\obj\Debug\net6.0\TipCalculator.AssemblyInfoInputs.cache
+C:\Users\Yetunde\OneDrive\Desktop\aspnet_core_mvc(2nd)\instructors\student_projects\project_starts\5-1_TipCalculator\TipCalculator\obj\Debug\net6.0\TipCalculator.AssemblyInfo.cs
+C:\Users\Yetunde\OneDrive\Desktop\aspnet_core_mvc(2nd)\instructors\student_projects\project_starts\5-1_TipCalculator\TipCalculator\obj\Debug\net6.0\TipCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Yetunde\OneDrive\Desktop\aspnet_core_mvc(2nd)\instructors\student_projects\project_starts\5-1_TipCalculator\TipCalculator\obj\Debug\net6.0\TipCalculator.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Yetunde\OneDrive\Desktop\aspnet_core_mvc(2nd)\instructors\student_projects\project_starts\5-1_TipCalculator\TipCalculator\obj\Debug\net6.0\TipCalculator.RazorAssemblyInfo.cache
+C:\Users\Yetunde\OneDrive\Desktop\aspnet_core_mvc(2nd)\instructors\student_projects\project_starts\5-1_TipCalculator\TipCalculator\obj\Debug\net6.0\TipCalculator.RazorAssemblyInfo.cs
+C:\Users\14195\OneDrive\Desktop\IT2030 - ASP.NET Web Programming\Lab\FabianMusic\IT2030Fall2023FabianAbarca\Week 4\TipCalculator\obj\Debug\net6.0\TipCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\14195\OneDrive\Desktop\IT2030 - ASP.NET Web Programming\Lab\FabianMusic\IT2030Fall2023FabianAbarca\Week 4\TipCalculator\obj\Debug\net6.0\TipCalculator.AssemblyInfoInputs.cache
+C:\Users\14195\OneDrive\Desktop\IT2030 - ASP.NET Web Programming\Lab\FabianMusic\IT2030Fall2023FabianAbarca\Week 4\TipCalculator\obj\Debug\net6.0\TipCalculator.AssemblyInfo.cs
+C:\Users\14195\OneDrive\Desktop\IT2030 - ASP.NET Web Programming\Lab\FabianMusic\IT2030Fall2023FabianAbarca\Week 4\TipCalculator\obj\Debug\net6.0\TipCalculator.csproj.CoreCompileInputs.cache
+C:\Users\14195\OneDrive\Desktop\IT2030 - ASP.NET Web Programming\Lab\FabianMusic\IT2030Fall2023FabianAbarca\Week 4\TipCalculator\obj\Debug\net6.0\TipCalculator.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\14195\OneDrive\Desktop\IT2030 - ASP.NET Web Programming\Lab\FabianMusic\IT2030Fall2023FabianAbarca\Week 4\TipCalculator\obj\Debug\net6.0\TipCalculator.RazorAssemblyInfo.cache
+C:\Users\14195\OneDrive\Desktop\IT2030 - ASP.NET Web Programming\Lab\FabianMusic\IT2030Fall2023FabianAbarca\Week 4\TipCalculator\obj\Debug\net6.0\TipCalculator.RazorAssemblyInfo.cs
+C:\Users\14195\OneDrive\Desktop\IT2030 - ASP.NET Web Programming\Lab\FabianMusic\IT2030Fall2023FabianAbarca\Week 4\TipCalculator\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\14195\OneDrive\Desktop\IT2030 - ASP.NET Web Programming\Lab\FabianMusic\IT2030Fall2023FabianAbarca\Week 4\TipCalculator\bin\Debug\net6.0\appsettings.json
+C:\Users\14195\OneDrive\Desktop\IT2030 - ASP.NET Web Programming\Lab\FabianMusic\IT2030Fall2023FabianAbarca\Week 4\TipCalculator\bin\Debug\net6.0\TipCalculator.staticwebassets.runtime.json
+C:\Users\14195\OneDrive\Desktop\IT2030 - ASP.NET Web Programming\Lab\FabianMusic\IT2030Fall2023FabianAbarca\Week 4\TipCalculator\bin\Debug\net6.0\TipCalculator.exe
+C:\Users\14195\OneDrive\Desktop\IT2030 - ASP.NET Web Programming\Lab\FabianMusic\IT2030Fall2023FabianAbarca\Week 4\TipCalculator\bin\Debug\net6.0\TipCalculator.deps.json
+C:\Users\14195\OneDrive\Desktop\IT2030 - ASP.NET Web Programming\Lab\FabianMusic\IT2030Fall2023FabianAbarca\Week 4\TipCalculator\bin\Debug\net6.0\TipCalculator.runtimeconfig.json
+C:\Users\14195\OneDrive\Desktop\IT2030 - ASP.NET Web Programming\Lab\FabianMusic\IT2030Fall2023FabianAbarca\Week 4\TipCalculator\bin\Debug\net6.0\TipCalculator.dll
+C:\Users\14195\OneDrive\Desktop\IT2030 - ASP.NET Web Programming\Lab\FabianMusic\IT2030Fall2023FabianAbarca\Week 4\TipCalculator\bin\Debug\net6.0\TipCalculator.pdb
+C:\Users\14195\OneDrive\Desktop\IT2030 - ASP.NET Web Programming\Lab\FabianMusic\IT2030Fall2023FabianAbarca\Week 4\TipCalculator\obj\Debug\net6.0\staticwebassets\msbuild.TipCalculator.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\14195\OneDrive\Desktop\IT2030 - ASP.NET Web Programming\Lab\FabianMusic\IT2030Fall2023FabianAbarca\Week 4\TipCalculator\obj\Debug\net6.0\staticwebassets\msbuild.build.TipCalculator.props
+C:\Users\14195\OneDrive\Desktop\IT2030 - ASP.NET Web Programming\Lab\FabianMusic\IT2030Fall2023FabianAbarca\Week 4\TipCalculator\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TipCalculator.props
+C:\Users\14195\OneDrive\Desktop\IT2030 - ASP.NET Web Programming\Lab\FabianMusic\IT2030Fall2023FabianAbarca\Week 4\TipCalculator\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TipCalculator.props
+C:\Users\14195\OneDrive\Desktop\IT2030 - ASP.NET Web Programming\Lab\FabianMusic\IT2030Fall2023FabianAbarca\Week 4\TipCalculator\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\14195\OneDrive\Desktop\IT2030 - ASP.NET Web Programming\Lab\FabianMusic\IT2030Fall2023FabianAbarca\Week 4\TipCalculator\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\14195\OneDrive\Desktop\IT2030 - ASP.NET Web Programming\Lab\FabianMusic\IT2030Fall2023FabianAbarca\Week 4\TipCalculator\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\14195\OneDrive\Desktop\IT2030 - ASP.NET Web Programming\Lab\FabianMusic\IT2030Fall2023FabianAbarca\Week 4\TipCalculator\obj\Debug\net6.0\scopedcss\bundle\TipCalculator.styles.css
+C:\Users\14195\OneDrive\Desktop\IT2030 - ASP.NET Web Programming\Lab\FabianMusic\IT2030Fall2023FabianAbarca\Week 4\TipCalculator\obj\Debug\net6.0\TipCalculator.dll
+C:\Users\14195\OneDrive\Desktop\IT2030 - ASP.NET Web Programming\Lab\FabianMusic\IT2030Fall2023FabianAbarca\Week 4\TipCalculator\obj\Debug\net6.0\refint\TipCalculator.dll
+C:\Users\14195\OneDrive\Desktop\IT2030 - ASP.NET Web Programming\Lab\FabianMusic\IT2030Fall2023FabianAbarca\Week 4\TipCalculator\obj\Debug\net6.0\TipCalculator.pdb
+C:\Users\14195\OneDrive\Desktop\IT2030 - ASP.NET Web Programming\Lab\FabianMusic\IT2030Fall2023FabianAbarca\Week 4\TipCalculator\obj\Debug\net6.0\TipCalculator.genruntimeconfig.cache
+C:\Users\14195\OneDrive\Desktop\IT2030 - ASP.NET Web Programming\Lab\FabianMusic\IT2030Fall2023FabianAbarca\Week 4\TipCalculator\obj\Debug\net6.0\ref\TipCalculator.dll

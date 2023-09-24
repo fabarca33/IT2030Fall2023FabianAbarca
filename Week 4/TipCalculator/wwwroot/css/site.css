@@ -1,0 +1,20 @@
+body {
+    padding: 1em;
+    font-family: Arial, Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    margin-top: 0;
+    color: navy;
+}
+
+label {
+    display: inline-block;
+    width: 10em; /*Syntax error in the CSS file is preventing the label elements from displaying the correct width. 
+        Changed the word "widht" to "width"*/
+    padding-right: 1em;
+}
+
+div {
+    margin-bottom: .5em;
+}
