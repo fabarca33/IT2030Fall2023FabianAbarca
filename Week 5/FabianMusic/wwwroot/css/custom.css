@@ -1,0 +1,43 @@
+body {
+    padding: 1em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    clear: left;
+    font-size: 1.2em;
+}
+
+img {
+    float: left;
+    width: 12em;
+}
+
+li {
+    display: inline;
+}
+
+.row{
+    margin: 0.5rem;
+}
+
+.row div{
+    border: 1px solid black;
+    padding: 0.5rem;
+    background-color: gray;
+}
+
+h3{
+    color: darkblue;
+    border: 1px black;
+}
+
+label{
+    display: inline-block;
+    width: 10em;
+    padding-right: 1em;
+}
+
+div{
+    margin-bottom: 0.5em;
+}

@@ -1,6 +1,13 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Week 2",
+    "\\Week 2\\FabianMusic\\Controllers",
+    "\\Week 2\\FabianMusic\\Models",
+    "\\Week 2\\FabianMusic\\Views",
+    "\\Week 2\\FabianMusic\\Views\\Home",
+    "\\Week 4"
   ],
+  "SelectedNode": "\\Week 4\\5-1_TipCalculator.sln",
   "PreviewInSolutionExplorer": false
 }

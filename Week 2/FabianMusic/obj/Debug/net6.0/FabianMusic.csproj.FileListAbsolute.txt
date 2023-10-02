@@ -28,3 +28,33 @@ C:\Users\14195\OneDrive\Desktop\IT2030 - ASP.NET Web Programming\Lab\FabianMusic
 C:\Users\14195\OneDrive\Desktop\IT2030 - ASP.NET Web Programming\Lab\FabianMusic\FabianMusic\obj\Debug\net6.0\FabianMusic.pdb
 C:\Users\14195\OneDrive\Desktop\IT2030 - ASP.NET Web Programming\Lab\FabianMusic\FabianMusic\obj\Debug\net6.0\FabianMusic.genruntimeconfig.cache
 C:\Users\14195\OneDrive\Desktop\IT2030 - ASP.NET Web Programming\Lab\FabianMusic\FabianMusic\obj\Debug\net6.0\ref\FabianMusic.dll
+C:\Users\14195\OneDrive\Desktop\IT2030 - ASP.NET Web Programming\Lab\FabianMusic\IT2030Fall2023FabianAbarca\Week 2\FabianMusic\obj\Debug\net6.0\FabianMusic.dll
+C:\Users\14195\OneDrive\Desktop\IT2030 - ASP.NET Web Programming\Lab\FabianMusic\IT2030Fall2023FabianAbarca\Week 2\FabianMusic\obj\Debug\net6.0\refint\FabianMusic.dll
+C:\Users\14195\OneDrive\Desktop\IT2030 - ASP.NET Web Programming\Lab\FabianMusic\IT2030Fall2023FabianAbarca\Week 2\FabianMusic\obj\Debug\net6.0\FabianMusic.pdb
+C:\Users\14195\OneDrive\Desktop\IT2030 - ASP.NET Web Programming\Lab\FabianMusic\IT2030Fall2023FabianAbarca\Week 2\FabianMusic\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\14195\OneDrive\Desktop\IT2030 - ASP.NET Web Programming\Lab\FabianMusic\IT2030Fall2023FabianAbarca\Week 2\FabianMusic\bin\Debug\net6.0\appsettings.json
+C:\Users\14195\OneDrive\Desktop\IT2030 - ASP.NET Web Programming\Lab\FabianMusic\IT2030Fall2023FabianAbarca\Week 2\FabianMusic\bin\Debug\net6.0\FabianMusic.staticwebassets.runtime.json
+C:\Users\14195\OneDrive\Desktop\IT2030 - ASP.NET Web Programming\Lab\FabianMusic\IT2030Fall2023FabianAbarca\Week 2\FabianMusic\bin\Debug\net6.0\FabianMusic.exe
+C:\Users\14195\OneDrive\Desktop\IT2030 - ASP.NET Web Programming\Lab\FabianMusic\IT2030Fall2023FabianAbarca\Week 2\FabianMusic\bin\Debug\net6.0\FabianMusic.deps.json
+C:\Users\14195\OneDrive\Desktop\IT2030 - ASP.NET Web Programming\Lab\FabianMusic\IT2030Fall2023FabianAbarca\Week 2\FabianMusic\bin\Debug\net6.0\FabianMusic.runtimeconfig.json
+C:\Users\14195\OneDrive\Desktop\IT2030 - ASP.NET Web Programming\Lab\FabianMusic\IT2030Fall2023FabianAbarca\Week 2\FabianMusic\bin\Debug\net6.0\FabianMusic.dll
+C:\Users\14195\OneDrive\Desktop\IT2030 - ASP.NET Web Programming\Lab\FabianMusic\IT2030Fall2023FabianAbarca\Week 2\FabianMusic\bin\Debug\net6.0\FabianMusic.pdb
+C:\Users\14195\OneDrive\Desktop\IT2030 - ASP.NET Web Programming\Lab\FabianMusic\IT2030Fall2023FabianAbarca\Week 2\FabianMusic\obj\Debug\net6.0\FabianMusic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\14195\OneDrive\Desktop\IT2030 - ASP.NET Web Programming\Lab\FabianMusic\IT2030Fall2023FabianAbarca\Week 2\FabianMusic\obj\Debug\net6.0\FabianMusic.AssemblyInfoInputs.cache
+C:\Users\14195\OneDrive\Desktop\IT2030 - ASP.NET Web Programming\Lab\FabianMusic\IT2030Fall2023FabianAbarca\Week 2\FabianMusic\obj\Debug\net6.0\FabianMusic.AssemblyInfo.cs
+C:\Users\14195\OneDrive\Desktop\IT2030 - ASP.NET Web Programming\Lab\FabianMusic\IT2030Fall2023FabianAbarca\Week 2\FabianMusic\obj\Debug\net6.0\FabianMusic.csproj.CoreCompileInputs.cache
+C:\Users\14195\OneDrive\Desktop\IT2030 - ASP.NET Web Programming\Lab\FabianMusic\IT2030Fall2023FabianAbarca\Week 2\FabianMusic\obj\Debug\net6.0\FabianMusic.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\14195\OneDrive\Desktop\IT2030 - ASP.NET Web Programming\Lab\FabianMusic\IT2030Fall2023FabianAbarca\Week 2\FabianMusic\obj\Debug\net6.0\FabianMusic.RazorAssemblyInfo.cache
+C:\Users\14195\OneDrive\Desktop\IT2030 - ASP.NET Web Programming\Lab\FabianMusic\IT2030Fall2023FabianAbarca\Week 2\FabianMusic\obj\Debug\net6.0\FabianMusic.RazorAssemblyInfo.cs
+C:\Users\14195\OneDrive\Desktop\IT2030 - ASP.NET Web Programming\Lab\FabianMusic\IT2030Fall2023FabianAbarca\Week 2\FabianMusic\obj\Debug\net6.0\staticwebassets\msbuild.FabianMusic.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\14195\OneDrive\Desktop\IT2030 - ASP.NET Web Programming\Lab\FabianMusic\IT2030Fall2023FabianAbarca\Week 2\FabianMusic\obj\Debug\net6.0\staticwebassets\msbuild.build.FabianMusic.props
+C:\Users\14195\OneDrive\Desktop\IT2030 - ASP.NET Web Programming\Lab\FabianMusic\IT2030Fall2023FabianAbarca\Week 2\FabianMusic\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FabianMusic.props
+C:\Users\14195\OneDrive\Desktop\IT2030 - ASP.NET Web Programming\Lab\FabianMusic\IT2030Fall2023FabianAbarca\Week 2\FabianMusic\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FabianMusic.props
+C:\Users\14195\OneDrive\Desktop\IT2030 - ASP.NET Web Programming\Lab\FabianMusic\IT2030Fall2023FabianAbarca\Week 2\FabianMusic\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\14195\OneDrive\Desktop\IT2030 - ASP.NET Web Programming\Lab\FabianMusic\IT2030Fall2023FabianAbarca\Week 2\FabianMusic\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\14195\OneDrive\Desktop\IT2030 - ASP.NET Web Programming\Lab\FabianMusic\IT2030Fall2023FabianAbarca\Week 2\FabianMusic\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\14195\OneDrive\Desktop\IT2030 - ASP.NET Web Programming\Lab\FabianMusic\IT2030Fall2023FabianAbarca\Week 2\FabianMusic\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\14195\OneDrive\Desktop\IT2030 - ASP.NET Web Programming\Lab\FabianMusic\IT2030Fall2023FabianAbarca\Week 2\FabianMusic\obj\Debug\net6.0\scopedcss\bundle\FabianMusic.styles.css
+C:\Users\14195\OneDrive\Desktop\IT2030 - ASP.NET Web Programming\Lab\FabianMusic\IT2030Fall2023FabianAbarca\Week 2\FabianMusic\obj\Debug\net6.0\scopedcss\projectbundle\FabianMusic.bundle.scp.css
+C:\Users\14195\OneDrive\Desktop\IT2030 - ASP.NET Web Programming\Lab\FabianMusic\IT2030Fall2023FabianAbarca\Week 2\FabianMusic\obj\Debug\net6.0\FabianMusic.genruntimeconfig.cache
+C:\Users\14195\OneDrive\Desktop\IT2030 - ASP.NET Web Programming\Lab\FabianMusic\IT2030Fall2023FabianAbarca\Week 2\FabianMusic\obj\Debug\net6.0\ref\FabianMusic.dll
