@@ -1,0 +1,58 @@
+﻿@model MySession
+@{
+    ViewData["Title"] = "Tools";
+}
+
+<div class="container">
+    <h1 class="mt-3 mb-4">@ViewBag.Title</h1>
+    @*  <br /> *@
+    <h3>Session Variables</h3>
+    @*    <br /> *@
+    <p>This page displays session state information when button clicked</p>
+    <form asp-action="Tools" method="post">
+        <div class="row">
+            <label asp-for="FirstName" class="col-md-3 col-form-label">First Name: </label>
+            <div class="col-md-3">
+                <input asp-for="FirstName" class="form-control" readonly />
+            </div>
+            @* <span asp-validation-for="FirstName" class="col text-danger"></span> *@
+        </div>
+
+        <div class="row">
+            <label asp-for="LastName" class="col-md-3 col-form-label">Last Name: </label>
+            <div class="col-md-3">
+                <input asp-for="LastName" class="form-control" readonly />
+            </div>
+            @*  <span asp-validation-for="LastName" class="col text-danger"></span> *@
+        </div>
+
+        <div class="row">
+            <label asp-for="Course" class="col-md-3 col-form-label">Course: </label>
+            <div class="col-md-3">
+                <input asp-for="Course" class="form-control" readonly />
+            </div>
+            @*  <span asp-validation-for="Course" class="col text-danger"></span> *@
+        </div>
+
+        <div class="row">
+            <label asp-for="FavNum" class="col-md-3 col-form-label">Favorite Number: </label>
+            <div class="col-md-3">
+                <input asp-for="FavNum" class="form-control" readonly />
+            </div>
+            @*  <span asp-validation-for="FavNum" class="col text-danger"></span> *@
+        </div>
+        <button type="submit" class="btn btn-primary" onclick="SetSessionVariables()">
+            Display Session Variables
+        </button>
+        <a asp-action="ClearSessionVariables" class="btn btn-primary">Clear</a>
+    </form>
+
+    <footer class="border-top footer text-muted">
+
+        &copy; 2023 - FabianMusic - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+
+    </footer>
+
+    @*  <a asp-controller="Home" asp-action="SetSessionVariables" class="btn btn-primary">Display Session Variables</a>
+    <a asp-controller="Home" asp-action="ClearSessionVariables" class="btn btn-primary">Clear</a> *@
+</div>
