@@ -1,0 +1,63 @@
+﻿@model ArtistListViewModel
+@{
+    ViewData["Title"] = " | Artist Catalog";
+
+    ArtistGridData current = Model.CurrentRoute;
+    GridData routes = Model.CurrentRoute.Clone();
+}
+
+<h1 class="display-4 text-center text-success"> Artist Catalog</h1>
+
+<table class="table table-bordered table-striped table-sm">
+    <thead class="bg-dark text-white">
+        <tr>
+            <th>
+                @{ routes.SetSortAndDirection(nameof(Artist.ArtistName), current); }
+                <a asp-action="List"
+                asp-all-route-data="@routes.ToDictionary()"
+                class="text-white">Name</a>
+            </th>
+            <th>Album(s)</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Artist artist in Model.Artists)
+        {
+            <tr>
+                <td>
+                    <a asp-action="Details" asp-route-id="@artist.ArtistId"
+                    asp-route-slug="@artist.ArtistName.Slug()">@artist.ArtistName</a>
+                </td>
+                
+                <td>
+                    @foreach (var ba in artist.AlbumArtists)
+                    {
+                        <p>
+                            <a asp-action="Details" asp-controller="Album"
+                            asp-route-id="@ba.AlbumId"
+                            asp-route-slug="@ba.Album.Title.Slug()">@ba.Album.Title</a>
+                        </p>
+                    } 
+
+                </td>
+                
+            </tr>
+        }
+    </tbody>
+</table>
+@{
+    routes = current.Clone();
+    for (int i = 1; i <= Model.TotalPages; i++)
+    {
+        routes.PageNumber = i;
+        string active = @Nav.Active(i, current.PageNumber);
+        <a asp-action="List" asp-all-route-data="@routes.ToDictionary()"
+            class="btn btn-outline-primary @active">@i</a>
+    }
+}
+<a asp-controller="Home" asp-action="Index" class="btn btn-primary">Back to Home</a>
+<footer class="border-top footer text-muted">
+
+    &copy; 2023 - FabianMusic - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+
+</footer>

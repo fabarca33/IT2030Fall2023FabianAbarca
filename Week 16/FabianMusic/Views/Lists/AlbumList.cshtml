@@ -1,0 +1,38 @@
+﻿@model AlbumListViewModel
+@{
+    ViewData["Title"] = " | Album Catalog";
+
+    AlbumGridData current = Model.CurrentRoute;
+    GridData routes = Model.CurrentRoute.Clone();
+}
+
+<h1 class="display-4 text-center text-success"> Album Catalog</h1>
+
+<table class="table table-bordered table-striped table-sm">
+    <thead class="bg-dark text-white">
+        <tr>
+            <th>
+                @{ routes.SetSortAndDirection(nameof(Album.AlbumTitle), current); }
+                <a asp-action="List"
+                asp-all-route-data="@routes.ToDictionary()"
+                class="text-white">Title</a>
+            </th>
+            <th>Artist(s)</th>
+            <th>
+                @{
+                    routes.SetSortAndDirection(nameof(Album.Price), current);
+                }
+                <a asp-action="List"
+                   asp-all-route-data="@routes.ToDictionary()"
+                   class="text-white">Price</a>
+            </th>
+        </tr>
+    </thead>
+</table>
+
+<a asp-controller="Home" asp-action="Index" class="btn btn-primary">Back to Home</a>
+<footer class="border-top footer text-muted">
+
+    &copy; 2023 - FabianMusic - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+
+</footer>

@@ -1,0 +1,113 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = FabianMusic
+build_property.RootNamespace = FabianMusic
+build_property.ProjectDir = C:\Users\14195\OneDrive\Desktop\IT2030 - ASP.NET Web Programming\Lab\FabianMusic\IT2030Fall2023FabianAbarca\Week 14 - Copy\FabianMusic\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\14195\OneDrive\Desktop\IT2030 - ASP.NET Web Programming\Lab\FabianMusic\IT2030Fall2023FabianAbarca\Week 14 - Copy\FabianMusic
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/14195/OneDrive/Desktop/IT2030 - ASP.NET Web Programming/Lab/FabianMusic/IT2030Fall2023FabianAbarca/Week 14 - Copy/FabianMusic/Views/ContactModels/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdE1vZGVsc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/14195/OneDrive/Desktop/IT2030 - ASP.NET Web Programming/Lab/FabianMusic/IT2030Fall2023FabianAbarca/Week 14 - Copy/FabianMusic/Views/ContactModels/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdE1vZGVsc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/14195/OneDrive/Desktop/IT2030 - ASP.NET Web Programming/Lab/FabianMusic/IT2030Fall2023FabianAbarca/Week 14 - Copy/FabianMusic/Views/ContactModels/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdE1vZGVsc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/14195/OneDrive/Desktop/IT2030 - ASP.NET Web Programming/Lab/FabianMusic/IT2030Fall2023FabianAbarca/Week 14 - Copy/FabianMusic/Views/ContactModels/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdE1vZGVsc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/14195/OneDrive/Desktop/IT2030 - ASP.NET Web Programming/Lab/FabianMusic/IT2030Fall2023FabianAbarca/Week 14 - Copy/FabianMusic/Views/ContactModels/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdE1vZGVsc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/14195/OneDrive/Desktop/IT2030 - ASP.NET Web Programming/Lab/FabianMusic/IT2030Fall2023FabianAbarca/Week 14 - Copy/FabianMusic/Views/Contact/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/14195/OneDrive/Desktop/IT2030 - ASP.NET Web Programming/Lab/FabianMusic/IT2030Fall2023FabianAbarca/Week 14 - Copy/FabianMusic/Views/Home/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/14195/OneDrive/Desktop/IT2030 - ASP.NET Web Programming/Lab/FabianMusic/IT2030Fall2023FabianAbarca/Week 14 - Copy/FabianMusic/Views/Home/Events.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFdmVudHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/14195/OneDrive/Desktop/IT2030 - ASP.NET Web Programming/Lab/FabianMusic/IT2030Fall2023FabianAbarca/Week 14 - Copy/FabianMusic/Views/Home/FAQ.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxGQVEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/14195/OneDrive/Desktop/IT2030 - ASP.NET Web Programming/Lab/FabianMusic/IT2030Fall2023FabianAbarca/Week 14 - Copy/FabianMusic/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/14195/OneDrive/Desktop/IT2030 - ASP.NET Web Programming/Lab/FabianMusic/IT2030Fall2023FabianAbarca/Week 14 - Copy/FabianMusic/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/14195/OneDrive/Desktop/IT2030 - ASP.NET Web Programming/Lab/FabianMusic/IT2030Fall2023FabianAbarca/Week 14 - Copy/FabianMusic/Views/Home/Tools.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUb29scy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/14195/OneDrive/Desktop/IT2030 - ASP.NET Web Programming/Lab/FabianMusic/IT2030Fall2023FabianAbarca/Week 14 - Copy/FabianMusic/Views/ProductModels/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdE1vZGVsc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/14195/OneDrive/Desktop/IT2030 - ASP.NET Web Programming/Lab/FabianMusic/IT2030Fall2023FabianAbarca/Week 14 - Copy/FabianMusic/Views/ProductModels/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdE1vZGVsc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/14195/OneDrive/Desktop/IT2030 - ASP.NET Web Programming/Lab/FabianMusic/IT2030Fall2023FabianAbarca/Week 14 - Copy/FabianMusic/Views/ProductModels/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdE1vZGVsc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/14195/OneDrive/Desktop/IT2030 - ASP.NET Web Programming/Lab/FabianMusic/IT2030Fall2023FabianAbarca/Week 14 - Copy/FabianMusic/Views/ProductModels/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdE1vZGVsc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/14195/OneDrive/Desktop/IT2030 - ASP.NET Web Programming/Lab/FabianMusic/IT2030Fall2023FabianAbarca/Week 14 - Copy/FabianMusic/Views/ProductModels/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdE1vZGVsc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/14195/OneDrive/Desktop/IT2030 - ASP.NET Web Programming/Lab/FabianMusic/IT2030Fall2023FabianAbarca/Week 14 - Copy/FabianMusic/Views/Product/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/14195/OneDrive/Desktop/IT2030 - ASP.NET Web Programming/Lab/FabianMusic/IT2030Fall2023FabianAbarca/Week 14 - Copy/FabianMusic/Views/Product/ListProducts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxMaXN0UHJvZHVjdHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/14195/OneDrive/Desktop/IT2030 - ASP.NET Web Programming/Lab/FabianMusic/IT2030Fall2023FabianAbarca/Week 14 - Copy/FabianMusic/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/14195/OneDrive/Desktop/IT2030 - ASP.NET Web Programming/Lab/FabianMusic/IT2030Fall2023FabianAbarca/Week 14 - Copy/FabianMusic/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/14195/OneDrive/Desktop/IT2030 - ASP.NET Web Programming/Lab/FabianMusic/IT2030Fall2023FabianAbarca/Week 14 - Copy/FabianMusic/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/14195/OneDrive/Desktop/IT2030 - ASP.NET Web Programming/Lab/FabianMusic/IT2030Fall2023FabianAbarca/Week 14 - Copy/FabianMusic/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/14195/OneDrive/Desktop/IT2030 - ASP.NET Web Programming/Lab/FabianMusic/IT2030Fall2023FabianAbarca/Week 14 - Copy/FabianMusic/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-1usv4502co

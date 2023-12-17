@@ -1,0 +1,41 @@
+﻿@model List<ProductModel>
+@{
+    ViewData["Title"] = "Product List";
+}
+               <header>
+                   <h1 class="display-4 text-center"> Product List</h1>
+               </header>
+<p>These are our products</p>
+<table class="table table-hover table-responsive">
+    <thead>
+        <tr>
+            <th>Product Name</th>
+            <th>Product Description</th>
+            <th>Product Price</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var prod in @Model)
+        {
+            <tr>
+                <td>@prod.ProductName</td>
+                <td>
+                    <img src="@prod.ProductImage" class="img-fluid rounded" /> @*~/images/*@
+                    <p>@prod.ProductDescription</p>
+                </td>
+                <td>@($"{prod.ProductPrice:C}") </td>
+                <td>
+                    <a asp-controller="Product" asp-action="Detail"
+                       asp-route-id="@prod.ProductId">Detail</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<a asp-controller="Home" asp-action="Index" class="btn btn-primary">Back to Home</a>
+<footer class="border-top footer text-muted">
+
+    &copy; 2023 - FabianMusic - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+
+</footer>
